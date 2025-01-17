@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import "./Sidebar.scss";
 import { HiMenuAlt3 } from "react-icons/hi";
 import { RiProductHuntLine } from "react-icons/ri";
-import menu from "../../data/sidebar";
+import menu from "../../data/Sidebar";
 import SidebarItem from "./SidebarItem";
 import { useNavigate } from "react-router-dom";
 
